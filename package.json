@@ -1,6 +1,6 @@
 {
   "name": "ftc-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jthftc/ftc-npm/issues"
   },
-  "homepage": "https://github.com/jthftc/ftc-npm#readme"
+  "homepage": "https://github.com/jthftc/ftc-npm#readme",
+  "dependencies": {
+    "base-64": "^1.0.0"
+  }
 }
