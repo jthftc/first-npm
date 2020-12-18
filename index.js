@@ -12,6 +12,7 @@ class ftc extends EventEmitter {
       this.username = username;
       this.year = 2020;
       //console.log(this.token);
+      //hello :)
    }
 
    _request(endpoint, season) {
