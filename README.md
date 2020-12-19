@@ -24,7 +24,7 @@ your **Node Application** this to spawn an ```first-npm``` reference from inside
 
 ```javascript
 //Spawn the first-npm Node module within your Node script
-const first = require('ftc-npm');
+const first = require('first-npm');
 
 //Used to login to the FIRST Robotics API
 const ftc = new first("username","API-key"); 
