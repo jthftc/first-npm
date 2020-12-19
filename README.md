@@ -1,4 +1,4 @@
-[![FirstNpm Logo](https://javathehutts.org/wp-content/uploads/elementor/thumbs/firstnpm2-p035r65fm6y9poa8z8ycx986j4qlq0bbghxd4ba27u.png)]
+[![FirstNpm Logo](https://raw.githubusercontent.com/jthftc/jthftc.github.io/main/wp-content/uploads/elementor/thumbs/firstnpm2-p035r65fm6y9poa8z8ycx986j4qlq0bbghxd4ba27u.png)]
 
 The ```first-npm``` package is mainly for ultilziing the FIRST Robotics API in a Node.JS environment.
 
