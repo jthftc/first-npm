@@ -1,5 +1,5 @@
 {
-  "name": "@jthftc/ftc-npm",
+  "name": "@jthftc/first-npm",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jthftc/ftc-npm.git"
+    "url": "git+https://github.com/jthftc/first-npm.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jthftc/ftc-npm/issues"
+    "url": "https://github.com/jthftc/first-npm/issues"
   },
-  "homepage": "https://github.com/jthftc/ftc-npm#readme",
+  "homepage": "https://github.com/jthftc/first-npm#readme",
   "dependencies": {
     "base-64": "^1.0.0"
   }
