@@ -31,7 +31,7 @@ ftc.getTeam(14725).then((response) => {
 });
 ```
 
-Get your FIRST Robotics `username` and `API-Key` from the [FTC](https://ftc-events.firstinspires.org/services/API) and [FRC](https://frc-events.firstinspires.org/services/API) API Request pages respectively
+Get your FIRST Robotics `username` and `API-Key` from the [FTC](https://ftc-events.firstinspires.org/services/API) and [FRC](https://frc-events.firstinspires.org/services/API) API request pages respectively
 
 ## License
 
