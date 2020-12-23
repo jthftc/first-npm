@@ -157,8 +157,8 @@ class ftc extends EventEmitter {
    }
 
    async getTeam(teamNumber) {
+      if (teamNumber == undefined || teamNumber == null) {console.log(new Error("Invalid Team Number (Example Format = #####)")); exit() ;}
       teamNumber = parseInt(teamNumber);
-      if (teamNumber == undefined) {console.log(new Error("Invalid Team Number (Example Format = #####)")); exit() ;}
       if (teamNumber.toString().length > 5) {console.log(new Error("Invalid Team Number (Example Format = #####)")); exit() ;}
       const response = await this._request('/teams?teamNumber=' + teamNumber,this.year);
       var output = response.teams;
