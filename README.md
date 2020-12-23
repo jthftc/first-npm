@@ -20,10 +20,10 @@ your **Node Application** this to spawn an `first-npm` reference from inside you
 
 ```javascript
 //Spawn the first-npm Node module within your Node script
-const first = require("first-npm");
+const First = require("first-npm");
 
-//Used to login to the FIRST Robotics API
-const ftc = new first("username", "API-Key");
+//Used to login to the FIRST Robotics API (More Information Below)
+const ftc = new First("username", "API-Key");
 
 //Grab the information associated with the team #14725 (Java The Hutts)
 ftc.getTeam(14725).then((response) => {
